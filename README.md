@@ -12,10 +12,10 @@ This repo provides the code of [Aquatic Neuromorphic Optical Flow](https://arxiv
 ```
 
 # Demo
-![Description of GIF](demo/0.gif)
-![Description of GIF](demo/1.gif)
-![Description of GIF](demo/2.gif)
-![Description of GIF](demo/3.gif)
+![demo0](demo/0.gif)
+![demo1](demo/1.gif)
+![demo2](demo/2.gif)
+![demo3](demo/3.gif)
 
 
 # Implementation
