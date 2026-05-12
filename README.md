@@ -1,6 +1,6 @@
-# Overview
+# Aquatic Neuromorphic Optical Flow
 
-This repo provides the code of [Aquatic Neuromorphic Optical Flow](https://arxiv.org/abs/2605.07653).
+[![arXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2605.07653)
 
 ```
 @article{zhang2026aquatic,
@@ -18,6 +18,5 @@ This repo provides the code of [Aquatic Neuromorphic Optical Flow](https://arxiv
 ![demo3](demo/3.gif)
 
 
-
 # Implementation
-This work is under review. Codes will be released upon publication.
+This work is under review. Code will be released upon publication.
