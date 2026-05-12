@@ -1,6 +1,7 @@
 # Aquatic Neuromorphic Optical Flow
 
 [![arXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2605.07653)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ```
 @article{zhang2026aquatic,
